@@ -1,0 +1,4 @@
+# Preserve exact release bytes so SHA256SUMS also verifies after a Git clone.
+* -text
+*.zip binary
+*.png binary

@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "prepared_date": "2026-10-15",
+  "license": "CC-BY-4.0",
+  "paper_doi": "10.1109/TITS.2025.3594956",
+  "complete_source_phone_archives": true,
+  "reference_transform": "Whitespace table to CSV; numerical tokens unchanged; local processing paths removed from separate metadata.",
+  "event_detector": {
+    "speed": "hypot(VEast,VNorth)",
+    "acceleration": "central difference of horizontal speed over actual time",
+    "threshold_mps2_exclusive": 0.5,
+    "minimum_consecutive_samples": 3,
+    "minimum_net_gain_mps": 2,
+    "padding_seconds_each_side": 5,
+    "boundary": "Complete padded clip must fit in common phone/reference time envelope.",
+    "endpoint_acceleration": "undefined; endpoints are excluded",
+    "labels": "new reference-derived candidates, not original paper annotations"
+  },
+  "examples": "For each drive, four greatest speed gains beginning below 2 m/s and two greatest peak-speed events beginning at or above 2 m/s; ties resolved by time.",
+  "source_exclusions": [
+    "extra Pixel 7 Pro units from drive02",
+    "Trimble NETR9 base station observations",
+    "paper manuscripts and correspondence",
+    "proprietary/intermediate processing binaries and phone solution outputs"
+  ],
+  "raw_content_exclusions": "None: six selected archives are byte-identical to source.",
+  "coordinate_redaction": false,
+  "utc_offset_for_collection_dates_s": 18
+}

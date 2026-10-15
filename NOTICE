@@ -1,0 +1,11 @@
+GEDVM Smartphone GNSS Vehicle Manoeuvre Dataset, version 1.0.0.
+Attribution: Yang Jiang, Yan Zhang, Zhitao Lyu, Zelin Zhou, Hongzhou Yang and Yang Gao.
+Related paper: DOI 10.1109/TITS.2025.3594956.
+License for the included dataset, documentation and helper scripts: CC BY 4.0.
+https://creativecommons.org/licenses/by/4.0/
+
+Release transformations: six selected original phone archives are unmodified;
+reference numeric values are reformatted into CSV; local processing paths are
+removed from exported header metadata; new candidate acceleration catalogs,
+epoch indexes, example clips, documentation and helper scripts are added.
+The paper text and third-party reference-processing software are not distributed.

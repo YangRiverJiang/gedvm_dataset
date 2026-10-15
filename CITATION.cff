@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "Please attribute this dataset and cite the associated paper."
+title: "GEDVM Smartphone GNSS Vehicle Manoeuvre Dataset"
+type: dataset
+url: "https://github.com/YangRiverJiang/gedvm_dataset"
+version: 1.0.0
+license: CC-BY-4.0
+authors:
+  - family-names: Jiang
+    given-names: Yang
+  - family-names: Zhang
+    given-names: Yan
+  - family-names: Lyu
+    given-names: Zhitao
+  - family-names: Zhou
+    given-names: Zelin
+  - family-names: Yang
+    given-names: Hongzhou
+  - family-names: Gao
+    given-names: Yang
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Jiang
+      given-names: Yang
+    - family-names: Zhang
+      given-names: Yan
+    - family-names: Lyu
+      given-names: Zhitao
+    - family-names: Zhou
+      given-names: Zelin
+    - family-names: Yang
+      given-names: Hongzhou
+    - family-names: Gao
+      given-names: Yang
+  title: "Accurate Vehicle Maneuver Analysis Using Smartphone GNSS Carrier-Phase Measurements"
+  journal: "IEEE Transactions on Intelligent Transportation Systems"
+  year: 2025
+  volume: 26
+  issue: 11
+  start: 18611
+  end: 18621
+  doi: 10.1109/TITS.2025.3594956

@@ -1,0 +1,254 @@
+[
+  {
+    "event_id": "drive01_A005",
+    "drive_id": "drive01",
+    "drive01_gp51": {
+      "raw_records": 793,
+      "raw_epochs": 20,
+      "reference_rows": 21
+    },
+    "drive01_gp7p3": {
+      "raw_records": 923,
+      "raw_epochs": 20,
+      "reference_rows": 21
+    }
+  },
+  {
+    "event_id": "drive01_A006",
+    "drive_id": "drive01",
+    "drive01_gp51": {
+      "raw_records": 883,
+      "raw_epochs": 22,
+      "reference_rows": 23
+    },
+    "drive01_gp7p3": {
+      "raw_records": 1012,
+      "raw_epochs": 22,
+      "reference_rows": 23
+    }
+  },
+  {
+    "event_id": "drive01_A012",
+    "drive_id": "drive01",
+    "drive01_gp51": {
+      "raw_records": 668,
+      "raw_epochs": 17,
+      "reference_rows": 18
+    },
+    "drive01_gp7p3": {
+      "raw_records": 794,
+      "raw_epochs": 17,
+      "reference_rows": 18
+    }
+  },
+  {
+    "event_id": "drive01_A014",
+    "drive_id": "drive01",
+    "drive01_gp51": {
+      "raw_records": 554,
+      "raw_epochs": 14,
+      "reference_rows": 15
+    },
+    "drive01_gp7p3": {
+      "raw_records": 615,
+      "raw_epochs": 14,
+      "reference_rows": 15
+    }
+  },
+  {
+    "event_id": "drive01_A044",
+    "drive_id": "drive01",
+    "drive01_gp51": {
+      "raw_records": 609,
+      "raw_epochs": 17,
+      "reference_rows": 18
+    },
+    "drive01_gp7p3": {
+      "raw_records": 708,
+      "raw_epochs": 17,
+      "reference_rows": 18
+    }
+  },
+  {
+    "event_id": "drive01_A089",
+    "drive_id": "drive01",
+    "drive01_gp51": {
+      "raw_records": 549,
+      "raw_epochs": 16,
+      "reference_rows": 17
+    },
+    "drive01_gp7p3": {
+      "raw_records": 671,
+      "raw_epochs": 16,
+      "reference_rows": 17
+    }
+  },
+  {
+    "event_id": "drive02_A010",
+    "drive_id": "drive02",
+    "drive02_gp52": {
+      "raw_records": 675,
+      "raw_epochs": 21,
+      "reference_rows": 22
+    },
+    "drive02_gp7p3": {
+      "raw_records": 924,
+      "raw_epochs": 21,
+      "reference_rows": 22
+    }
+  },
+  {
+    "event_id": "drive02_A012",
+    "drive_id": "drive02",
+    "drive02_gp52": {
+      "raw_records": 533,
+      "raw_epochs": 15,
+      "reference_rows": 16
+    },
+    "drive02_gp7p3": {
+      "raw_records": 660,
+      "raw_epochs": 15,
+      "reference_rows": 16
+    }
+  },
+  {
+    "event_id": "drive02_A016",
+    "drive_id": "drive02",
+    "drive02_gp52": {
+      "raw_records": 666,
+      "raw_epochs": 20,
+      "reference_rows": 21
+    },
+    "drive02_gp7p3": {
+      "raw_records": 940,
+      "raw_epochs": 20,
+      "reference_rows": 21
+    }
+  },
+  {
+    "event_id": "drive02_A064",
+    "drive_id": "drive02",
+    "drive02_gp52": {
+      "raw_records": 700,
+      "raw_epochs": 21,
+      "reference_rows": 22
+    },
+    "drive02_gp7p3": {
+      "raw_records": 945,
+      "raw_epochs": 21,
+      "reference_rows": 22
+    }
+  },
+  {
+    "event_id": "drive02_A073",
+    "drive_id": "drive02",
+    "drive02_gp52": {
+      "raw_records": 700,
+      "raw_epochs": 21,
+      "reference_rows": 22
+    },
+    "drive02_gp7p3": {
+      "raw_records": 966,
+      "raw_epochs": 21,
+      "reference_rows": 22
+    }
+  },
+  {
+    "event_id": "drive02_A083",
+    "drive_id": "drive02",
+    "drive02_gp52": {
+      "raw_records": 766,
+      "raw_epochs": 22,
+      "reference_rows": 23
+    },
+    "drive02_gp7p3": {
+      "raw_records": 1012,
+      "raw_epochs": 22,
+      "reference_rows": 23
+    }
+  },
+  {
+    "event_id": "drive03_A043",
+    "drive_id": "drive03",
+    "drive03_gp51": {
+      "raw_records": 966,
+      "raw_epochs": 21,
+      "reference_rows": 22
+    },
+    "drive03_gp7p4": {
+      "raw_records": 987,
+      "raw_epochs": 21,
+      "reference_rows": 22
+    }
+  },
+  {
+    "event_id": "drive03_A044",
+    "drive_id": "drive03",
+    "drive03_gp51": {
+      "raw_records": 1018,
+      "raw_epochs": 23,
+      "reference_rows": 24
+    },
+    "drive03_gp7p4": {
+      "raw_records": 1076,
+      "raw_epochs": 23,
+      "reference_rows": 24
+    }
+  },
+  {
+    "event_id": "drive03_A061",
+    "drive_id": "drive03",
+    "drive03_gp51": {
+      "raw_records": 882,
+      "raw_epochs": 19,
+      "reference_rows": 20
+    },
+    "drive03_gp7p4": {
+      "raw_records": 855,
+      "raw_epochs": 19,
+      "reference_rows": 20
+    }
+  },
+  {
+    "event_id": "drive03_A062",
+    "drive_id": "drive03",
+    "drive03_gp51": {
+      "raw_records": 1113,
+      "raw_epochs": 24,
+      "reference_rows": 25
+    },
+    "drive03_gp7p4": {
+      "raw_records": 1080,
+      "raw_epochs": 24,
+      "reference_rows": 25
+    }
+  },
+  {
+    "event_id": "drive03_A067",
+    "drive_id": "drive03",
+    "drive03_gp51": {
+      "raw_records": 801,
+      "raw_epochs": 17,
+      "reference_rows": 18
+    },
+    "drive03_gp7p4": {
+      "raw_records": 765,
+      "raw_epochs": 17,
+      "reference_rows": 18
+    }
+  },
+  {
+    "event_id": "drive03_A068",
+    "drive_id": "drive03",
+    "drive03_gp51": {
+      "raw_records": 1056,
+      "raw_epochs": 23,
+      "reference_rows": 24
+    },
+    "drive03_gp7p4": {
+      "raw_records": 1035,
+      "raw_epochs": 23,
+      "reference_rows": 24
+    }
+  }
+]

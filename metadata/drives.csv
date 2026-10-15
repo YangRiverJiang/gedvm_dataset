@@ -1,0 +1,4 @@
+drive_id,collection_date,common_reference_start_sow_s,common_reference_end_sow_s,common_reference_start_utc,common_reference_end_utc,common_span_s,acceleration_candidates,pre_extracted_examples,detection_reference,common_max_horizontal_speed_mps
+drive01,2024-09-10,247818,253099,2024-09-10T20:50:00.000Z,2024-09-10T22:18:01.000Z,5281,108,6,drive01_gp7p3,30.843082947234702
+drive02,2024-09-11,346666,350854,2024-09-12T00:17:28.000Z,2024-09-12T01:27:16.000Z,4188,93,6,drive02_gp7p3,29.323743922800855
+drive03,2024-09-12,421587,424073,2024-09-12T21:06:09.000Z,2024-09-12T21:47:35.000Z,2486,70,6,drive03_gp7p4,27.042924905786357
